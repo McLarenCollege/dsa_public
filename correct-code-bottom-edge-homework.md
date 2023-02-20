@@ -1,4 +1,4 @@
-Correct the below code such that we dont check below the bottom edge. 
+Correct the below code such that we dont check below the bottom edge of the farm.
 
 ```js
 //correct the code below
